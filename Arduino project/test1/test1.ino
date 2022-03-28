@@ -6,4 +6,5 @@ pinMode(A1,INPUT);
 //semangat arin
 
 void loop() {
+  int data = analogRead(A1);
 }
